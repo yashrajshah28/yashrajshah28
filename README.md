@@ -10,7 +10,7 @@ Hello! I am Yashraj Shah studying BCA. I am interested in Website Developing, Ga
 * 🖥️  See my portfolio at [Resume](https://docs.google.com/document/d/1dgHGL-kICxhMP_HowFMr_N7dxk0UD4jV/edit?usp=sharing&ouid=111364001680430210295&rtpof=true&sd=true)
 * ✉️  You can contact me at [yashrajshah28@gmail.com](mailto:yashrajshah28@gmail.com)
 * 🚀  I'm currently working on [Discord Music Bot](http://github.com/yashrajshah28/KitKat)
-* 🧠  I'm learning Java, Web Developing, Software Developing
+* 🧠  I'm learning Web Developing, Software Developing And Game Developing
 * ⚡  I'm secretly Sipderman... but don't tell anyone
 
 ### Skills
