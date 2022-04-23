@@ -4,7 +4,7 @@ Hi 👋 My name is Yashraj Shah
 Developer, Graphic Designer
 ---------------------------
 
-Hello! I am Yashraj Shah studying BCA. I am interested in designing websites, games and application, as well as graphic design and animation. I started developing small Web pages and in my 11th-12th class started working on electronics, programming and physical computing and completed my high schooling in 2020.
+Hello! I am Yashraj Shah studying BCA. I am interested in Website Developing, Games Developing and Software Developing, as well as graphic design and animation. I started developing small Web pages and in my 11th-12th class started working on electronics, programming and physical computing and completed my high schooling in 2020.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Resume](http://https://docs.google.com/document/d/1dgHGL-kICxhMP_HowFMr_N7dxk0UD4jV/edit?usp=sharing&ouid=111364001680430210295&rtpof=true&sd=true)
