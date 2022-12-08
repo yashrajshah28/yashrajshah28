@@ -5,7 +5,7 @@
 
 - 💻 I am interested in Developing Website, Games and Softwares
 
-- 🔭 I’m currently working on [Website](https://yashrajshah28.github.io/Freak/)
+- 🔭 I’m currently working on [Website](https://github.com/yashrajshah28/Freak_Website)
 
 - 🌱 I’m currently learning **Web Developing, Software Developing and Game Developing**
 
