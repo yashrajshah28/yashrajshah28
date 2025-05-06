@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Website](https://github.com/yashrajshah28/PlanetSurf)
 
-- 🌱 I’m currently learning **Web Developing, Software Developing and Game Developing**
+- 🌱 I’m currently learning **Web Developing, Graphic Designing, UI/UX Designing and Game Developing**
 
 - 📫 How to reach me **yashrajshah28@gmail.com**
 
